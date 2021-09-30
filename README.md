@@ -1,3 +1,4 @@
+# DEPREDICATED, USE A10 BRANCH 
 # SHRP Device Tree for Xiaomi Redmi Note 8/8T (ginkgo/willow)
 
 The Redmi Note 8 (codenamed "ginkgo") is a mid-range smartphone from Xiaomi. It was announced in August 2019 and released in October 2019.
